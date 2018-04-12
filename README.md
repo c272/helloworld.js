@@ -1,4 +1,4 @@
-# helloworld.js
+# Helloworld.JS
 *Plays Louie Zong's "Hello World", in code.*
 
 ## Dependencies
